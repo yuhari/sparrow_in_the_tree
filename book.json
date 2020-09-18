@@ -5,6 +5,7 @@
     "language": "zh-hans",
  
     "plugins": [ 
+		"-sharing",
         "-search",
         "search-pro",
         "code",

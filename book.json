@@ -1,0 +1,29 @@
+{
+    "title": "树梢上的青雀",
+    "description": "yuhari's blog",
+    "author": "Yuhari",
+    "language": "zh-hans",
+ 
+    "plugins": [ 
+        "-search",
+        "search-pro",
+        "code",
+        "splitter",
+        "expandable-chapters-small",
+        "page-toc-button",
+        "back-to-top-button"
+    ],
+    
+    "pluginsConfig": {
+        "search-pro": {
+            "cutWordLib": "nodejieba",
+            "defineWord": ["Spring Boot"],
+            "expandable-chapters-small":{}
+        }
+    },
+    
+    "pdf": {
+        "paperSize": "a4",
+        "fontSize": 30      
+    }
+}
